@@ -1,16 +1,34 @@
-# ecommerce_app_flutter
+# Ecommerce App
 
-A new Flutter project.
+<p align="center">
+   <img src="https://cdn-images-1.medium.com/max/800/1*n4juwuUefkeaIMBr9QX6eg.png" weight="200"/>
+</p>
 
-## Getting Started
+Criação e desenvolvimento de um aplicativo e-commerce.
 
-This project is a starting point for a Flutter application.
+Acompanhe meus artigos no Medium:
+https://medium.com/osamuelalmeid
 
-A few resources to get you started if this is your first Flutter project:
+## Como configurar o projeto
+-   Clonar o projeto utilizando o comando abaixo.
+ 
+```shell
+git clone https://github.com/osamuelalmeid/ecommerce_app_flutter.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-   Entrar na pasta do projeto e baixar os pacotes, rodando o comando abaixo no terminal.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```shell
+cd ecommerce_app_flutter
+flutter packages get
+```
+
+-   O login pode ser feito utilizando qualquer email e senha.
+
+# Recursos
+-   Flutter.
+-   Dart.
+-   Material Design.
+-   View Model.
+-   Provider.
+-   Firebase.
